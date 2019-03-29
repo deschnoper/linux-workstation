@@ -1,1 +1,3 @@
 This is a new file for testing branhces of development
+
+OK, now this is modified version. We are now testing errors while merging branches.
